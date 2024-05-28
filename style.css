@@ -1,0 +1,55 @@
+/*Este es un comentario*/
+
+/*Selector de tipo etiqueta*/
+body{
+    background-color: crimson;
+    font-size: 19px;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    color: blue;
+}
+
+h2{
+    color: rgb(255, 255, 255);
+}
+
+/*Selector de tipo ID*/
+#trabajo{
+    color: indigo;
+}
+
+/*Selector de tipo clase*/
+.habilidades{
+    background-color: blue;
+    text-align: center;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px;
+    border: 20px;
+    color: white;
+}
+
+/*Selector avanzado*/
+.educacion ul li{
+    background-color: black;
+    a {color: aliceblue;}
+    list-style: none;
+    border-radius: 10px;
+    text-align: center;
+}
+
+img{
+    width: 450px;
+    height: 250px;
+}
+
+h1{
+    color:black;
+}
+
+h1{
+    color: rgb(192, 226, 43);
+}
